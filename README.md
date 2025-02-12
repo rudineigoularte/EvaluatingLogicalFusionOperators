@@ -1,5 +1,5 @@
 # EvaluatingLogicalFusionOperators
-RESEARCH PAPER - Submitted to the "Revista Eletrônica de Iniciação Científica" - SBC - Brazil.
+## RESEARCH PAPER - Submitted to the "Revista Eletrônica de Iniciação Científica" - SBC - Brazil.
 Tilte: Evaluating Logical Operators for Multimodal Fusion in the Temporal Video Scene Segmentation Task
 Authors: Letícia B. Barbosa[Universidade de São Paulo - Escola de Engenharia de São Carlos | leticiabarbosa@usp.br ]
 Rudinei Goularte [Universidade de São Paulo - Instituto de Ciências Matemáticas e de Computação |rudinei@icmc.usp.br ]
