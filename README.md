@@ -1,8 +1,8 @@
 # Evaluating Logical Operators for Multimodal Fusion in the Temporal Video Scene Segmentation Task
 ## RESEARCH PAPER - Submitted to the "Revista Eletrônica de Iniciação Científica" - SBC - Brazil. Fev/2025.
 ## Authors: 
-Letícia B. Barbosa[Universidade de São Paulo - Escola de Engenharia de São Carlos | leticiabarbosa@usp.br ]
-Rudinei Goularte [Universidade de São Paulo - Instituto de Ciências Matemáticas e de Computação |rudinei@icmc.usp.br ]
+- Letícia B. Barbosa[Universidade de São Paulo - Escola de Engenharia de São Carlos | leticiabarbosa@usp.br ]
+- Rudinei Goularte [Universidade de São Paulo - Instituto de Ciências Matemáticas e de Computação |rudinei@icmc.usp.br ]
 ## Address: 
 University of São Paulo - Instituto de Ciências Matemáticas e de Computação, Avenida Trabalhador São-carlense, 400 - Centro CEP: 13566-590 - São Carlos - SP, Brazil.
 ## Abstract: 
