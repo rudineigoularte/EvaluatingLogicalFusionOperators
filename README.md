@@ -18,5 +18,6 @@ Video Scene Segmentation. Comparative analysis demonstrates that Or and Xor logi
 in the specific Temporal Video Scene Segmentation content analysis tasks.
 Keywords: Multimodal Fusion, Fusion Operators, Video Scene Segmentation, Video Analysis
 
-# This repository contains the source-code files (Google Colaboratory notebooks) used in the Experiments as well as the BBC Dataset Ground-Truth files (GT). 
-The BCC dataset video files are publicly available at: https://www.bbc.co.uk/iplayer/episodes/b006mywy/planet-earth
+## This repository contains the source-code files (Google Colaboratory notebooks) used in the Experiments as well as the BBC Dataset Ground-Truth files (GT). 
+
+## The BCC dataset video files are publicly available at: https://www.bbc.co.uk/iplayer/episodes/b006mywy/planet-earth
