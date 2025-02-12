@@ -14,6 +14,7 @@ plex operations when applied at the mid-level feature space, highlighting a gap 
 paper investigates the application of logical fusion operators (And, Or, Xor) at the mid-level feature space for Temporal
 Video Scene Segmentation. Comparative analysis demonstrates that Or and Xor logical operators are viable alternatives
 in the specific Temporal Video Scene Segmentation content analysis tasks.
+##
 Keywords: Multimodal Fusion, Fusion Operators, Video Scene Segmentation, Video Analysis
 
 ## This repository contains the source-code files (Google Colaboratory notebooks) used in the Experiments as well as the BBC Dataset Ground-Truth files (GT). 
